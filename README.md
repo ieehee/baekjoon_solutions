@@ -4,6 +4,19 @@ https://www.acmicpc.net/user/rhapso73
 
 https://solved.ac/profile/rhapso73
 
+### 1095
+
+<ul>
+    <li>이하 순서로 진행</li>
+    <ol>
+        <li>M 이하 소수찾기</li>
+        <li>(S+F)!, S!, F!를 각각 소인수분해하여 <sub>S+F</sub>C<sub>S</sub>의 소인수분해</li>
+        <li>M 이하의 수 중에  <sub>S+F</sub>C<sub>S</sub>의 소수와 지수 조합 내에서 만들 수 있는 가장 큰 수 찾기</li>
+    </ol>
+    <li>이후 다른 사람이 푼 코드를 보니 2. 이후 바로 <sub>S+F</sub>C<sub>S</sub>에 직접 M 이하의 수들을 하나씩 나누기도 함.</li>
+    <li>팩토리얼할 수가 큰 경우 소인수분해로 접근하는 자체가 효율적인가?..</li>
+</ul>
+
 ### 1058
 
 <ul>
